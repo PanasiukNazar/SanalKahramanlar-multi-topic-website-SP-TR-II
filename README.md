@@ -1,1 +1,1 @@
-[DEMO](https://panasiuknazar.github.io/YolArkada--multi-topic-website-SP-TR-II/)
+[DEMO](https://panasiuknazar.github.io/YolArkada-traveling-website-SP-TR-II/)
